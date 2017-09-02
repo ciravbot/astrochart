@@ -88,7 +88,5 @@ print(aspect)
 print(" ")
 print("---------------------")
 print(" ")
-print(glyph.aries)
-for obj in chart.objects:
-    print(obj)
+
 
