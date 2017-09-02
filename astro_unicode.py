@@ -34,7 +34,7 @@ quintile = ("\u0051")
 square = ("\u25a1")
 trine = ("\u25b3")
 sesquiquadrate = ("\u26bc")
-biquintile = ("\u0062", "\u0051")
+biquintile = ("\u0062\u0051")
 quincunx = ("\u26bb")
 opposition = ("\u260d")
 
