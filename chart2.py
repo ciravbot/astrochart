@@ -5,8 +5,8 @@ from flatlib import const
 from flatlib import aspects
 import astro_unicode as glyph
 
-date = Datetime('1979/04/17', '16:49', '-06:00')
-pos = GeoPos('40n48', '91w06')
+date = Datetime('1970/06/04', '10:01', '-04:00')
+pos = GeoPos('31n41', '90w01')
 
 # Finally create the chart
 from flatlib.chart import Chart
